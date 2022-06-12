@@ -1,0 +1,17 @@
+{
+    "defaultCommandTimeout": 10000,
+    "baseUrl": "https://itau.com.br",
+    "testFiles": "**/*.feature",
+    "video":true,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/report/mochawesome-report",
+        "overwrite": false,
+        "html": false,
+        "json": true,
+        "timestamp": "mmddyyyy_HHMMss",
+        "reportTitle": "Relatório Cypress",
+        "cdn": true,
+        "charts": true
+    }
+}
