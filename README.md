@@ -75,7 +75,7 @@ Hueliton F Oliveira
   
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](https://github.com/HuelFreitas/Teste-Automatizado-com-Cypress.io/blob/add-license-1/LICENSE) .
+Este projeto esta sobe a licença [MIT](https://github.com/HuelFreitas/Teste-Cypress-Itau/blob/main/licence).
 
 ## 📚 Referências
 - [Cypress](https://docs.cypress.io/guides/overview/why-cypress)
